@@ -1,0 +1,102 @@
+
+.izq
+{
+    float: left;
+    width: 25%;
+    height: 500px;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.entradas{
+    background-color:peru;
+
+    width: 80%;
+    height: 75%;
+    padding-left: 2%;
+    text-align: center;
+    margin-left: 8%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+.EstiloEntradas
+{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.botones
+{
+    background-color:olive;
+    
+    height: 22%;
+    border-radius: 30px;
+    text-align: center;
+
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+.EstiloBotones
+{
+    background-color: khaki;
+    margin-top: 10%;
+    border-radius: 15px;
+    height: 50px;
+    
+    border-width: 5px;
+}
+
+
+
+
+
+
+
+
+
+.der
+{
+    background-color: salmon;
+    
+    float: left;
+    width: 73%;
+    height: 490px;
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 40px;
+    text-align: center;
+    
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header
+{
+    background-color: blanchedalmond;
+
+    height: 100px;
+}
+body
+{
+    background-color: lemonchiffon;
+    background: linear-gradient(to bottom, black, darksalmon, aliceblue, darksalmon);
+}
